@@ -14,5 +14,4 @@ C/C++ , Django/Django REST , REACT/Redux, JavaScript, Python, HTML, CSS
 - 🤔 I’m looking for help with ... assistance in my some pending projects
 - 💬 Ask me about ... Django REST Framework, Competitive Programming
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/khushiagarwal/)
-- ⚡ Fun fact: The # symbol isn’t officially called hashtag, it is called octothorpe.
 
