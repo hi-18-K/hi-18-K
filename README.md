@@ -2,8 +2,11 @@
 
 ### I am Khushi Agarwal.
 
-A 3rd year Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or astronomy. I get never bored of talking about tech-trends and news around. 
+A 3rd year Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or astronomy. I get never bored of talking about tech-trends. 
 
+
+#### Skills: 
+C/C++ , Django/Django REST , REACT/Redux, JavaScript, Python, HTML, CSS
 
 - 🔭 I’m currently working on ... Competitive programming, ROS
 - 🌱 I’m currently learning ... Data Structures, ROS, Front-End Web Development 
