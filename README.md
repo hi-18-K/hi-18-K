@@ -2,7 +2,7 @@
 
 ### I am Khushi Agarwal.
 
-A 3rd year Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or astronomy. 
+A 3rd year Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or arts. 
 
 
 #### Skills: 
