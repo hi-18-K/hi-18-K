@@ -8,11 +8,10 @@ A 3rd year Undergrad student at IET Lucknow. I like learning new stuff be it tec
 #### Skills: 
 C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS
 
-- 🔭 I’m currently working on: Competitive programming, ROS
-- 🌱 I’m currently learning: Data Structures, ROS, Front-End Web Development 
+- 🔭 I’m currently working on: Competitive programming, Full Stack Development
+- 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
 - 👯 I’m looking to collaborate on: Full-Stack Web Developement projects
-- 🤔 I’m looking for help with: assistance in my pending projects (Django, React)
-- 💬 Ask me about: Django REST Framework, Competitive Programming
+- 💬 Ask me about: Django REST Framework, Django, Competitive Programming
 - 📫 How to reach me: [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
