@@ -10,7 +10,7 @@ C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS
 
 - 🔭 I’m currently working on: Competitive programming, Full Stack Development
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
-- 👯 I’m looking to collaborate on: Full-Stack Web Developement projects
+- 👯 I’m looking to collaborate on: Full-Stack Web Development projects
 - 💬 Ask me about: Django REST Framework, Django, Competitive Programming
 - 📫 How to reach me: [![LinkedIn][2.2]][2]
 
