@@ -9,7 +9,7 @@
 
 
 ### <p align='center'> Things I have woked on: </p>
-#### <p align='center'> C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS </p>
+#### <p align='center'> C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS, ROS, IOT </p>
 
 <p align='center'>
   I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
