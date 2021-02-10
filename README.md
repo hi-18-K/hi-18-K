@@ -1,14 +1,13 @@
-### Hi there 👋
+<p align='center' markdown="1">
+  ### Hi there 👋
 
-### I am Khushi Agarwal.
+  ### I am Khushi Agarwal.
 
-<br>
-<p align='center'>
+  
 <a href="https://www.linkedin.com/in/khushiagarwal/"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/khushiagarwal846/"><img height="30" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100055184105814"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
-<br>
 
 #### Skills: 
 C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS
