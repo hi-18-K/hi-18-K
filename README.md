@@ -8,7 +8,7 @@
 </p>
 
 
-### <p align='center'> Skills: </p>
+### <p align='center'> Things I have woked on: </p>
 #### <p align='center'> C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS </p>
 
 <p align='center'>
