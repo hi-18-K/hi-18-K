@@ -12,7 +12,14 @@ C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
 - 👯 I’m looking to collaborate on: Full-Stack Web Development projects
 - 💬 Ask me about: Django REST Framework, Django, Competitive Programming
-- 📫 How to reach me: [![LinkedIn][2.2]][2]
+- 📫 How to reach me: 
+
+<p>
+<a href="https://www.linkedin.com/in/khushiagarwal/"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/khushiagarwal846/"><img height="30" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100055184105814"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg?raw=true"></a>&nbsp;&nbsp;
+</p>
+
 
 <!-- Icons -->
 
@@ -23,3 +30,5 @@ C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/khushiagarwal/
+
+
