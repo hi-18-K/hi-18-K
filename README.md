@@ -1,6 +1,6 @@
-<p align='center' markdown="2">
-  ### Hi there 👋
+### Hi there 👋
 
+<p align='center' markdown="1">
   ### I am Khushi Agarwal.
 
   
@@ -9,11 +9,11 @@
 <a href="https://www.facebook.com/profile.php?id=100055184105814"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-#### Skills: 
+### Skills: 
 C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS
 
 <p align='center'>
-  A 3rd year Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
+  I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
 - 🔭 I’m currently working on: Competitive programming, Full Stack Development
