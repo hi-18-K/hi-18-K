@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align='center'>Hi there 👋</p>
 
 <p align='center' markdown="1">
   ### I am Khushi Agarwal.
