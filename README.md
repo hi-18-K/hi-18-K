@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on: Competitive programming, Full Stack Development
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
 - 💬 Ask me about: Django REST Framework, Django, Competitive Programming
-- Open to discuss: Any web technology, ROS, IOT, Futurism, Healthcare, News, Social issues(adapting problem solving), Cultures round the Globe 
+- Open to discuss: Any web technology, ROS, IOT, Futurism, Healthcare, News, Social issues(adapting problem solving), Cultures..
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <p align='center'> My Github Stats:
