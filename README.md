@@ -15,9 +15,14 @@
   I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
+<p align='center'>
 - 🔭 I’m currently working on: Competitive programming, Full Stack Development
+  <br>
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
+  <br>
 - 💬 Ask me about: Django REST Framework, Django, Competitive Programming
+  <br>
+ </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
