@@ -6,7 +6,10 @@
 <a href="https://www.instagram.com/khushiagarwal846/"><img height="30" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100055184105814"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### <p align='center'> Things I have woked on: </p>
 #### <p align='center'> C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS, ROS, IOT </p>
@@ -18,14 +21,9 @@
   I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
-<p>
 - 🔭 I’m currently working on: Competitive programming, Full Stack Development
-  <br>
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
-  <br>
 - 💬 Ask me about: Django REST Framework, Django, Competitive Programming
-  <br>
- </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
