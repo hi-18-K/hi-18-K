@@ -11,11 +11,11 @@
 ### <p align='center'> Things I have woked on: </p>
 #### <p align='center'> C/C++, JavaScript, Python, Django/Django REST , REACT, HTML, CSS, ROS, IOT </p>
 
-<p align='center'>
+<p>
   I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
-<p align='center'>
+<p>
 - 🔭 I’m currently working on: Competitive programming, Full Stack Development
   <br>
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development, ROS 
