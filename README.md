@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning: Data Structures, Front-End Web Development
 - 🤔 I’m looking for help with Open Source contibution.
 - 💬 Ask me about: Django REST Framework, Django, Competitive Programming
-- Open to discuss: Any web technology, ROS, IOT, Futurism, Healthcare, News, Social issues(adapting problem solving), Cultures..
+- Open to discuss: Any web technology, ROS, IOT, Futurism, Healthcare, News, Social issues(using problem solving attitude), Cultures..
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
