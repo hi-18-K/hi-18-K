@@ -19,11 +19,10 @@
   I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
-- 🔭 I’m currently working on: Competitive programming, Full Stack Development
-- 🌱 I’m currently learning: Data Structures, Front-End Web Development
-- 🤔 I’m looking for help with Open Source contibution.
-- 💬 Ask me about: Django REST Framework, Django, Competitive Programming
-- Open to discuss: Any web technology, ROS, IOT, Futurism, Healthcare, News, Social issues(using problem solving attitude), Cultures..
+- 🔭 I’m currently working on: programming, Learning Algorithms
+- 🌱 I’m currently learning: Algorithms
+- 🤔 I’m looking for help with: Projects I've left in between
+- 💬 Ask me about: Django REST Framework, Django, Programming, Algorithms, Cultures
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
