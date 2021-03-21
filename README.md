@@ -21,8 +21,8 @@
 
 - 🔭 I’m currently working on: programming, Learning Algorithms
 - 🌱 I’m currently learning: Algorithms
-- 🤔 I’m looking for help with: Projects I've left in between
-- 💬 Ask me about: Django REST Framework, Django, Programming, Algorithms, Cultures
+- 🤔 I’m looking for help with: Ongoing projects
+- 💬 Ask me about: Django REST Framework, Django, NodeJS, ReactJS, Programming, Algorithms, Cultures
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
