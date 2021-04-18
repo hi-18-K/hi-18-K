@@ -19,9 +19,9 @@
   I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
-- 🔭 I’m currently working on: programming, Learning Algorithms
+- 🔭 I’m currently working on: programming, Algorithms, Mathematics
 - 🌱 I’m currently learning: Algorithms
-- 🤔 I’m looking for help with: Ongoing projects
+- 🤔 I’m looking for help with: Mathematics
 - 💬 Ask me about: Programming, Algorithms, Django REST Framework, Django, IoT, NodeJS, ReactJS
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
