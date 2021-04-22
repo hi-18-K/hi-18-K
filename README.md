@@ -29,10 +29,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true" />
 </a>
-<a href="https://github.com/hi-18-K/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-18-K&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-18-K">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-18-K" />
 </a>
-
 
 <p align='center'>
  
