@@ -27,10 +27,10 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-18-K&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-18-K&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-18-K&layout=compact" />
 </a>
 
 <p align='center'>
