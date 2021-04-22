@@ -26,10 +26,14 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### <p align='center'> 
+<p align='center'> 
  ![Khushi's Github Stats:](https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true)
-
 </p>
+
+<p align='center'> 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-18-K&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 <div align='center'>
  
 ![Khushi's Profile views](https://komarev.com/ghpvc/?username=hi-18-K)
