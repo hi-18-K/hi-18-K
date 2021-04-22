@@ -34,7 +34,7 @@
 </a>
 
 
-<div align='centre'>
+<div align='justify'>
 <a href="https://komarev.com/ghpvc/?username=hi-18-K">
   <img align="centre" src="https://komarev.com/ghpvc/?username=hi-18-K" />
 </a>
