@@ -27,7 +27,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <p align='center'> My Github Stats:
- ![Khushi's github stats](https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true)
+ ![](https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true)
 
 </p>
 <div align='center'>
