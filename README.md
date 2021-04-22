@@ -26,12 +26,13 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<a href="https://github.com/hi-18-K/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-18-K&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/hi-18-K/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hi-18-K&repo=convoychat" />
+</a>
 
-### <p align='center'> 
-  
- ![Khushi's Github Stats:](https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true)
- 
-</p>
 
 <p align='center'>
  
