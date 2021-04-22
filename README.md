@@ -26,7 +26,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/hi-18-K/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true" />
 </a>
 <a href="https://github.com/hi-18-K/convoychat">
