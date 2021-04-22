@@ -26,9 +26,10 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align='center'> 
+
+<div align='center'> 
  ![Khushi's Github Stats:](https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true)
-</p>
+</div>
 
 <div align='center'>
  
