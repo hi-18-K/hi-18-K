@@ -27,11 +27,13 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<div align='center'> 
+### <p align='center'> 
+  
  ![Khushi's Github Stats:](https://github-readme-stats.vercel.app/api?username=hi-18-K&count_private=true)
-</div>
+ 
+</p>
 
-<div align='center'>
+<p align='center'>
  
 ![Khushi's Profile views](https://komarev.com/ghpvc/?username=hi-18-K)
 
