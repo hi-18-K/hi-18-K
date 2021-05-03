@@ -1,6 +1,7 @@
 ### <p align='center'>Hi there 👋</p>
 ### <p align='center'>I am Khushi Agarwal.</p>
 
+
 <p align='center'>  
 <a href="https://www.linkedin.com/in/khushiagarwal/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/khushiagarwal846/" target="_blank"><img height="30" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif?raw=true"></a>&nbsp;&nbsp;
@@ -16,7 +17,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p>
-  I am a junior Undergrad student at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
+  I am a junior Undergrad at IET Lucknow. I like learning new stuff be it technology, Science or reasoning behind working of any sort stuff. 
 </p>
 
 - 🔭 I’m currently working on: programming, Algorithms, Mathematics
