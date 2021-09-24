@@ -11,7 +11,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### <p align='center'> Things I have woked on: </p>
-#### <p align='center'> C/C++(DS-Algo, CP), JavaScript, Python, Django/Django REST , REACT, HTML, CSS, ROS, IOT </p>
+#### <p align='center'> C/C++(DS-Algo, CP), JavaScript, Python, Django/Django REST , REACT, MongoDB, HTML, CSS, ROS, IOT </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on: programming, Algorithms, Mathematics
 - 🌱 I’m currently learning: Algorithms
 - 🤔 I’m looking for help with: Mathematics
-- 💬 Ask me about: Programming, Algorithms, Django REST Framework, Django, IoT, NodeJS, ReactJS
+- 💬 Ask me about: Programming, Algorithms, Django REST Framework, Django, IoT, NodeJS, ReactJS, MongoDB
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
